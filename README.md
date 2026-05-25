@@ -6,7 +6,7 @@ W systemie powinny być zainstalowana przegladarka Firefox.
 
 ## Jak uruchomić projekt
   
-  - dotnet restore
+  - dotnet build
   - dotnet run
 
 
