@@ -1,0 +1,51 @@
+# Build results
+bin/
+obj/
+object/
+
+# .NET
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Test results
+TestResults/
+coverage/
+coverage.xml
+coverage.opencover.xml
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# OS files
+.DS_Store
+Thumbs.db
+.directory
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Publish output
+publish/
+out/
+
+# Selenium / browser driver leftovers
+geckodriver.log
+webdriver.log
