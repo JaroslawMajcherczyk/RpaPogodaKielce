@@ -5,6 +5,7 @@ Prosta aplikacja konsolowa napisana w C#, która wykorzystuje Selenium WebDriver
 W systemie powinny być zainstalowana przegladarka Firefox.
 
 ## Jak uruchomić projekt
+```bash
 dotnet restore
 dotnet run
 
